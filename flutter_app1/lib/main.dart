@@ -15,8 +15,8 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Image(
-          image:NetworkImage('https://images.alphacoders.com/117/thumb-1920-1177225.jpg'),
-        )
+          image:AssetImage('assets/img1.jpg'),
+        ),
       ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.red[600],
