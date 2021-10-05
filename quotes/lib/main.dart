@@ -14,7 +14,8 @@ class _QuoteListState extends State<QuoteList> {
 
   List<Quote> quotes =[
     Quote(text: 'Soy una quote de Oscar', author: 'Oscar'),
-    Quote(text: 'Soy una quote de Javi', author: 'Javi')
+    Quote(text: 'Soy una quote de Javi', author: 'Javi'),
+    Quote(text: 'Soy una quote de muestra para github', author: 'Papá'),
 
   ];
 
