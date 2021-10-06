@@ -6,6 +6,15 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_app1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/id_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/id_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/id_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quotes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quotes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quotes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time/build" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/world_time/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
