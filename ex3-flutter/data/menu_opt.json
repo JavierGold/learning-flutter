@@ -1,0 +1,12 @@
+{
+  "nombreApp": "Rutas",
+  "rutas": [
+   
+    {
+      "ruta": "animalsList",
+      "icon": "pets",
+      "texto": "Lista de mascotas"
+
+    }
+  ]
+}
